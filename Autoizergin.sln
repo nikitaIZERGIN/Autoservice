@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autoizergin", "AutoStarikov\Autoizergin.csproj", "{8D7B7F2C-343F-4F63-A9C6-36B98E59BDC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D7B7F2C-343F-4F63-A9C6-36B98E59BDC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D7B7F2C-343F-4F63-A9C6-36B98E59BDC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D7B7F2C-343F-4F63-A9C6-36B98E59BDC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D7B7F2C-343F-4F63-A9C6-36B98E59BDC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE465671-FCA3-4426-9BD3-C7CDCA92AC89}
+	EndGlobalSection
+EndGlobal
